@@ -1,0 +1,62 @@
+
+@media (max-width:820px) {
+    .navbar{
+        flex-direction: column;
+        justify-content: space-between;
+        width:0%;
+        height: 100vh;
+        padding: 40px 0;
+        box-shadow: 2px 2px 2px 0px #0000000f;
+        transition: width 0.3s ease-in-out;
+    }
+    .navbar.open{
+        width:70vw
+    }
+    .icon{
+        img{            
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            max-height: 100%;
+        }
+    }
+    .mit-icon{
+        margin: 10px 0;
+        display: flex;
+        flex-direction: column;
+        height: 20%;
+        align-items: center;
+        img{            
+            padding: 0;
+            margin: 0;
+            max-width: 70%;
+            max-height: 100%;
+        }
+    }
+    .nav-content{
+        font-size: large;
+        flex:1;
+        width:auto;
+        overflow: hidden;
+        margin: 0;
+        padding:0 0 0 40px;
+        height: auto;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+    }
+
+    .nav-button{
+        margin-left:20px;
+    }
+
+    .icon-content{
+        overflow: hidden;
+        height: auto;
+        width:100%;
+        margin: 0;
+        justify-content: space-evenly;
+        padding-bottom: 20px;
+    }
+}

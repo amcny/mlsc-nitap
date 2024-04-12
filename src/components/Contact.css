@@ -1,0 +1,55 @@
+.contact{
+    height: 30vh;
+    width: 100%;
+    background-color: #eee;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    color:#223a60 ;
+}
+
+.contact-info{
+    margin: 20px;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    a{
+
+        color:#223a60 ;
+    }
+}
+.brand-icon-2{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.contact-info.icon-content-2{
+    align-items: center;
+
+}
+
+@media (max-width:768px) {
+    .contact{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: auto;
+    }
+    .contact-info{
+        h4{
+            font-size: 12px;
+        }
+        p,a{
+            font-size: 10px;
+        }
+    }
+    .contact-info.icon-content-2{
+        grid-column: span 2;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: row;
+        /* margin: 0; */
+        a{font-size: 16px;}
+    }
+}
