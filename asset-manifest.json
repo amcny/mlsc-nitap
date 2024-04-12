@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mlsc-nitap/static/css/main.0150a20e.css",
-    "main.js": "/mlsc-nitap/static/js/main.8a96e375.js",
+    "main.js": "/mlsc-nitap/static/js/main.9507d675.js",
     "static/js/453.5fdebebf.chunk.js": "/mlsc-nitap/static/js/453.5fdebebf.chunk.js",
     "static/media/MLSA.png": "/mlsc-nitap/static/media/MLSA.2c55d01628ffe3a297ed.png",
     "static/media/azure.png": "/mlsc-nitap/static/media/azure.dad1ca25d0571f9a4ace.png",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/mlsc-nitap/static/media/logo.1d87adb75dfe2b1eebe58538e492116a.svg",
     "index.html": "/mlsc-nitap/index.html",
     "main.0150a20e.css.map": "/mlsc-nitap/static/css/main.0150a20e.css.map",
-    "main.8a96e375.js.map": "/mlsc-nitap/static/js/main.8a96e375.js.map",
+    "main.9507d675.js.map": "/mlsc-nitap/static/js/main.9507d675.js.map",
     "453.5fdebebf.chunk.js.map": "/mlsc-nitap/static/js/453.5fdebebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0150a20e.css",
-    "static/js/main.8a96e375.js"
+    "static/js/main.9507d675.js"
   ]
 }
