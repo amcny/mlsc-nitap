@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/mlsc-nitap/static/css/main.0150a20e.css",
-    "main.js": "/mlsc-nitap/static/js/main.9507d675.js",
+    "main.js": "/mlsc-nitap/static/js/main.282877ff.js",
     "static/js/453.5fdebebf.chunk.js": "/mlsc-nitap/static/js/453.5fdebebf.chunk.js",
     "static/media/MLSA.png": "/mlsc-nitap/static/media/MLSA.2c55d01628ffe3a297ed.png",
     "static/media/azure.png": "/mlsc-nitap/static/media/azure.dad1ca25d0571f9a4ace.png",
     "static/media/about2.png": "/mlsc-nitap/static/media/about2.edeb4a3a38d2c4c3f8c2.png",
-    "static/media/nit1.png": "/mlsc-nitap/static/media/nit1.a898a4431cb932e08cc8.png",
     "static/media/logo2.png": "/mlsc-nitap/static/media/logo2.ed84785be706753f5e27.png",
     "static/media/about1.png": "/mlsc-nitap/static/media/about1.dfa7af47c10132173a89.png",
+    "static/media/nit1.png": "/mlsc-nitap/static/media/nit1.aa857dffb13c1dc5c527.png",
     "static/media/github.png": "/mlsc-nitap/static/media/github.ba9cb8d57d53e7189c48.png",
     "static/media/figma.png": "/mlsc-nitap/static/media/figma.9adea96ce0fa2e1ff586.png",
     "static/media/nit.png": "/mlsc-nitap/static/media/nit.b3d9fe7dac9d4e55832c.png",
     "static/media/logo.svg": "/mlsc-nitap/static/media/logo.1d87adb75dfe2b1eebe58538e492116a.svg",
     "index.html": "/mlsc-nitap/index.html",
     "main.0150a20e.css.map": "/mlsc-nitap/static/css/main.0150a20e.css.map",
-    "main.9507d675.js.map": "/mlsc-nitap/static/js/main.9507d675.js.map",
+    "main.282877ff.js.map": "/mlsc-nitap/static/js/main.282877ff.js.map",
     "453.5fdebebf.chunk.js.map": "/mlsc-nitap/static/js/453.5fdebebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0150a20e.css",
-    "static/js/main.9507d675.js"
+    "static/js/main.282877ff.js"
   ]
 }
